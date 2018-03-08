@@ -19,3 +19,4 @@ end
 end
 
 depends 'ohai', '>= 1.1'
+depends 'git', '>= 8.0.0'
